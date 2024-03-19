@@ -49,7 +49,7 @@ public class Solution {
                 count++;
                 r++;
             }
-//            if two pointer can not move further, break the loop
+//            If two pointer can not move further, break the loop
             if (lastLoopCount == count){
                 break;
             }
