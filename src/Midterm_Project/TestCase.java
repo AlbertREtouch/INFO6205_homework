@@ -101,7 +101,6 @@ public class TestCase {
                 {0,1,0,0,1},
                 {0,1,0,0,0}
         };
-
         int[] start3 = {4, 3};
         int[] destination3 = {0, 1};
         System.out.println("Problem 4 test case 3: " + midterm.shortestDistance(maze3, start3, destination3));
