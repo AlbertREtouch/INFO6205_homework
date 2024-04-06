@@ -33,6 +33,7 @@ public class Midterm {
         return count[0];
     }
 
+
     private boolean isUnival(TreeNode node, int[] count, int parentVal) {
         if (node == null) return true;
         
