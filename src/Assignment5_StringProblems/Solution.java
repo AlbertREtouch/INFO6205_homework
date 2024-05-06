@@ -65,7 +65,6 @@ public class Solution {
             List<String> strobogrammaticNumbers = solution.findStrobogrammatic(n);
             System.out.println("Strobogrammatic numbers of length " + n + ": " + strobogrammaticNumbers);
         }
-//        int n = 3;
 
     }
 
